@@ -1,4 +1,6 @@
-# Change Resolution
+# [DEPRECATED] - Change Resolution
+
+### *UPDATE: Fortnite no longer allows the use of stretched resolutions. The code will be left here for informational purposes.*
 
 I mainly created this for myself because I play quite a bit of Fortnite and I do so playing in stretched resolution to allow for higher FPS and more vertical FOV. This script allows me to change the resolution of my monitor using a macro key on my keyboard so I don't have to constantly open Nvidia Control Panel to change my resolution between stretched and native resolution.
 
